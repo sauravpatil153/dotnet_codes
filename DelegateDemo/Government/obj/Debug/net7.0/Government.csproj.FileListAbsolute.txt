@@ -1,0 +1,12 @@
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\Government.csproj.AssemblyReference.cache
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\Government.GeneratedMSBuildEditorConfig.editorconfig
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\Government.AssemblyInfoInputs.cache
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\Government.AssemblyInfo.cs
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\Government.csproj.CoreCompileInputs.cache
+D:\A-dotnet\LabWork\DelegatePractice\Government\bin\Debug\net7.0\Government.deps.json
+D:\A-dotnet\LabWork\DelegatePractice\Government\bin\Debug\net7.0\Government.dll
+D:\A-dotnet\LabWork\DelegatePractice\Government\bin\Debug\net7.0\Government.pdb
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\Government.dll
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\refint\Government.dll
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\Government.pdb
+D:\A-dotnet\LabWork\DelegatePractice\Government\obj\Debug\net7.0\ref\Government.dll
