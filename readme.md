@@ -1,1 +1,1 @@
-### This repository is has all dotnet projects
+### This repository has all dotnet projects
