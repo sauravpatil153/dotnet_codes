@@ -1,7 +1,7 @@
 @{
     ViewData["Title"] = "Register Page";
-}
 
+}
 <div class="vh-100">
     <div class="container-fluid h-custom">
         <div class="row d-flex align-items-center h-100">
@@ -14,7 +14,18 @@
                     <h2>Sign up</h2><br>
                 </div>
                 <form action="/Home/StoreData">
-                    <!-- Email input -->
+                    <div class="form-outline mb-4">
+                        <input type="text" id="fname" name="fname" class="form-control form-control-lg"
+                            placeholder="Enter FirstName" />
+                        <label class="form-label" for="form3Example3">First Name</label>
+                    </div>
+
+                    <div class="form-outline mb-4">
+                        <input type="text" id="lname" name="lname" class="form-control form-control-lg"
+                            placeholder="Enter LastName" />
+                        <label class="form-label" for="form3Example3">Last Name</label>
+                    </div>
+
                     <div class="form-outline mb-4">
                         <input type="email" id="email" name="email" class="form-control form-control-lg"
                             placeholder="Enter a valid email address" />
@@ -35,9 +46,9 @@
                     </div>
                     <div class="text-center text-lg-start mt-4 pt-2">
                         <button type="submit" class="btn btn-primary btn-lg"
-                            style="padding-left: 2.5rem; padding-right: 2.5rem;">Register</button>
+                            style="padding-left: 2.5rem; padding-right: 2.5rem;"
+                            onsubmit="validate(event)">Register</button>
                     </div>
-
                 </form>
             </div>
         </div>

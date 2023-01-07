@@ -61,3 +61,4 @@ D:\A-dotnet\LabWork\StudentApp\obj\Debug\net7.0\refint\MvcApp.dll
 D:\A-dotnet\LabWork\StudentApp\obj\Debug\net7.0\MvcApp.pdb
 D:\A-dotnet\LabWork\StudentApp\obj\Debug\net7.0\MvcApp.genruntimeconfig.cache
 D:\A-dotnet\LabWork\StudentApp\obj\Debug\net7.0\ref\MvcApp.dll
+D:\A-dotnet\LabWork\StudentApp\bin\Debug\net7.0\custdata.json

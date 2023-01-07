@@ -16560,6 +16560,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\A-dotnet\\LabWork\\StudentApp\\Views\\Home\\LoginErr.cshtml",
+      "TargetPath": "Views\\Home\\LoginErr.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\A-dotnet\\LabWork\\StudentApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

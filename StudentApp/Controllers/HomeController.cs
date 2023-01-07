@@ -16,7 +16,7 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-    
+
     public IActionResult Index()
     {
         return View();
@@ -27,13 +27,22 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult LoginErr(){
+        return View();
+    }
+
+    
     public IActionResult Validate(string email, string password)
     {
-        if (email == "sauravpatil96@gmail.com" && password == "saurav")
+        List<Authentication> userData = SerDeser.RetrieveData();
+        foreach (Authentication user in userData)
         {
-            return Redirect("/Home/Index");
+            if (user.Email==email && user.Password==password)
+            {
+                return Redirect("/Home/Index");
+            }
         }
-        return View();
+        return Redirect("/Home/LoginErr");
     }
 
     public IActionResult Register()
@@ -41,9 +50,10 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult StoreData(string email, string password)
+    
+    public IActionResult StoreData(string email, string password, string firstName, string lastName)
     {
-        SerDeser.StoreData(email,password);
+        SerDeser.StoreData(email, password, firstName, lastName);
         return Redirect("/Home/Login");
     }
 
