@@ -9,7 +9,7 @@
         <ol>
             @foreach (Product product in allProducts)
             {
-                <li>@product.Title</li>
+                <li><a href="/Product/Details/@product.ProductId">@product.Title</a></li>
             }
         </ol>
     }
