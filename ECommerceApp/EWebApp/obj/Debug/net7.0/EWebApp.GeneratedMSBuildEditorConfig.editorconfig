@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EWebApp
 build_property.RootNamespace = EWebApp
-build_property.ProjectDir = d:\A-dotnet\LabWork\ECommerceApp\EWebApp\
+build_property.ProjectDir = D:\A-dotnet\LabWork\ECommerceApp\EWebApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\A-dotnet\LabWork\ECommerceApp\EWebApp
+build_property.MSBuildProjectDirectory = D:\A-dotnet\LabWork\ECommerceApp\EWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Home/Index.cshtml]
+[D:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Home/Privacy.cshtml]
+[D:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Product/Index.cshtml]
+[D:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Shared/Error.cshtml]
+[D:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/_ViewImports.cshtml]
+[D:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/_ViewStart.cshtml]
+[D:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Shared/_Layout.cshtml]
+[D:/A-dotnet/LabWork/ECommerceApp/EWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5flzq3prsp
