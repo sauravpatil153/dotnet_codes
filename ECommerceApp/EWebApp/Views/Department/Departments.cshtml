@@ -1,0 +1,16 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Department Page";
+}
+<div>
+    <h2>List of Departments</h2>
+    @{
+        List<Department> allDepartments = (List<Department>)ViewData["departments"]!;
+        <ol>
+            @foreach (Department dept in allDepartments)
+            {
+                <li><a href="/Department/Details/@dept.Id">@dept.Name</a></li>
+            }
+        </ol>
+    }
+</div>
